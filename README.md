@@ -3,7 +3,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project aims to extract, transform and consolidate the data into a single resource, showing the concept of ETL in Data Engineering. 
+This project aims to extract, transform and consolidate the data into a single resource, showing the concept of ETL in Data Engineering. We are combining multiple XML, CSV and JSON.
  
 ### Built With
 
